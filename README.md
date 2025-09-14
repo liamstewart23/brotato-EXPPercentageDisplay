@@ -17,4 +17,5 @@ Level 5, 67.23% toward next level → displays: LV.5 (67.23%)
 
 ## 🔧 Installation:
 Just hit Subscribe, and the mod will be added to your game automatically. No setup required.
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=3568240126
